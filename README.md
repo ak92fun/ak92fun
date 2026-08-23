@@ -22,7 +22,9 @@ Most of what I build is focused on clarity, maintainability, and learning by doi
 - Improving technical communication
 - Keeping things simple and maintainable
 
-## 👾 Fandom Website
+## 👾 Projects & Links
 
 - 🚀 [ak92fun.github.io](https://ak92fun.github.io)
+- 📄 [ak92fun/notes](https://github.com/ak92fun/notes)
 - 🏆 [Hall of Fame Music Library](https://ak92fun.github.io/music.html)
+
